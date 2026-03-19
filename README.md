@@ -1,2 +1,3 @@
-# open-file-sharing-5bec
-A file sharing and storage service for modern development workflows
+# Open File Sharing 5Bec
+
+A file sharing and storage service for modern development workflows.
